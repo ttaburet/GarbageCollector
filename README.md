@@ -12,8 +12,8 @@ Notebooks for image processing: un de peu de techniques old-school, un peu de ma
 + Integrated gradients for LDEA localization: [local notebook](Notebooks/Images_CNN_IG_LDEA.ipynb)
 
 ### PCA:
-+ OCC, KPCA: [local notebook](Notebooks/PCA_OCC.ipynb)
-
++ OCC (One-Class Classification), KPCA (Kernel PCA): [local notebook](Notebooks/PCA_OCC.ipynb)
++ OCC (One-Class Classification), SKPCA (Sparse Kernel PCA) for Outlier Detection: [local notebook](Notebooks/SKPCA_OCC.ipynb)
 ### Steganography
 + Natural steganography for JPEG images [local notebook](Notebooks/Steganography_NS.ipynb)
 + Synchronization: [local notebook](Notebooks/Steganography_Synchronization.ipynb)
